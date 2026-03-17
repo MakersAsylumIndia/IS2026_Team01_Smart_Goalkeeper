@@ -1,8 +1,6 @@
-# IS2026 Spring - NAME OF PROJECT
+# IS2026 Spring - Team 01 - Smart Goalkeeper
 
-Describe the project.
-Describe what are the contents of each folder - CODE, CAD, Electronics etc
-
+We designed a two player game to help practise shooting goals for football / soccer. The first iteration is a scaled down mockup prototype. Player one - the shooter - practises taking shots at the goal. Player two - the goalkeeper - tries to block. Player two has a joystick to move the goalkeeper. The goalkeeper is moved using a strong, metal gear servo. We attached a wooden support to the metal servo arm, and the goalkeeper is attached to this support using some (weak) velcro. This allows the ball to knock off the goalkeeper, and help avoid damage to the servo. The servo is firmly mounted on a plywood platform. The goalpost is built from cheap PVC plumbing pipes. We also added an I2C OLED display to do scorekeeping. Future iterations will have ball detection before shoot off, using a simple LDR embedded in a short, wide, conical support for the ball. During this time, it will not be possible for the goalkeeper to be moved using the joystick. Goalkeeper can move only once the ball is shot. We can also add automatic goal detection using either ToF sensors on the goal post. We experimented with ["Velostat"](https://en.wikipedia.org/wiki/Velostat) pressure sensors and it seemed promising to use them for goal detection.
 
 ## License
 
