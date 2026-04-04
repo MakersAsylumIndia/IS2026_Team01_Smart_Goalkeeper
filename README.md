@@ -22,7 +22,7 @@ MIT open source [license](http://opensource.org/licenses/MIT).
 
 [OSHW] IN000085 | Certified open source hardware | oshwa.org/cert
 
-<a href="https://certification.oshwa.org/in000085.html"><img src="https://certification.oshwa.org/in000085.html#"/></a>
+<a href="https://certification.oshwa.org/in000085.html"><img src="/Smart_Goalkeeper_OSHWA_IN000085.svg"/></a>
 
 
 ---
